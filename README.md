@@ -7,43 +7,46 @@
 #### Web-Scrapping
 - Experiência no DataCamp
 - Matéria "Python para Análise de Dados na UFPR"
+#### Análise de Dados
+- Base Estatística
 #### Programação em C
 - Matérias "Programação I" e "Programação II"
 #### Algoritmos e Estruturas de Dados
 - Vetores
 - Listas Ligadas
 - Árvores Binárias e Heaps
+- Algoritmos Básicos de Busca e Ordenação
 
 ### Trocar Imagens (Toolbox)
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-        <img src="https://github.com/Aermoss/Aermoss/blob/main/pictures/c.svg" width="48" height="48" alt="C" />
+      <a href="https://commons.wikimedia.org/w/index.php?curid=29423032">
+        <img src="https://github.com/borncabus/borncabus/blob/main/media/c_logo.svg" width="48" height="48" alt="C" />
       </a>
       <br>C
     </td>
     <td align="center" width="96">
       <a href="https://en.wikipedia.org/wiki/C%2B%2B">
-        <img src="https://github.com/Aermoss/Aermoss/blob/main/pictures/cpp.svg" width="48" height="48" alt="C++"/>
+        <img src="https://github.com/borncabus/borncabus/blob/main/media/cpp_logo.svg" width="48" height="48" alt="C++"/>
       </a>
       <br>C++
     </td>
     <td align="center" width="96">
       <a href="https://www.python.org">
-        <img src="https://github.com/Aermoss/Aermoss/blob/main/pictures/python.svg" width="48" height="48" alt="Python" />
+        <img src="https://github.com/borncabus/borncabus/blob/main/media/python_logo.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+      <a href="https://www.r-project.org">
         <img src="https://github.com/borncabus/borncabus/blob/main/media/r_logo.svg" width="48" height="48" alt="R" />
       </a>
       <br>R
     </td>
     <td align="center" width="96">
       <a href="https://code.visualstudio.com" >
-        <img src="https://github.com/Aermoss/Aermoss/blob/main/pictures/visualstudiocode.svg" width="48" height="48" alt="Visual Studio Code" />
+        <img src="https://github.com/borncabus/borncabus/blob/main/media/vscode_logo.svg" width="48" height="48" alt="Visual Studio Code" />
       </a>
       <br>VS Code
     </td>
