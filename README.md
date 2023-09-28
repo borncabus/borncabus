@@ -8,7 +8,10 @@
 - Experiência no DataCamp
 - Matéria "Python para Análise de Dados na UFPR"
 #### Análise de Dados
-- Base Estatística
+#### Visualização de Dados
+#### Otimização
+#### Computação Científica
+#### Banco de Dados
 #### Programação em C
 - Matérias "Programação I" e "Programação II"
 #### Algoritmos e Estruturas de Dados
