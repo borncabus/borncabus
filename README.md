@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+### Minhas Experiências:
+#### Inteligência Artificial
+- Fiz a Matéria de Inteligência Artificial na UFPR
+- Fiz a Matéria de Aprendizado de Máquina na UFPR
+#### Web-Scrapping
+- Experiência no DataCamp
+- Matéria "Python para Análise de Dados na UFPR"
+#### Programação em C
+- Matérias "Programação I" e "Programação II"
+#### Algoritmos e Estruturas de Dados
+- Vetores
+- Listas Ligadas
+- Árvores Binárias e Heaps
+
 ### Trocar Imagens (Toolbox)
 <table>
   <tr>
