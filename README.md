@@ -33,6 +33,12 @@
       </a>
       <br>VS Code
     </td>
+    <td align="center" width="96">
+      <a href="https://en.m.wikipedia.org/wiki/CMake" >
+        <img src="https://github.com/borncabus/borncabus/blob/main/media/cmake_logo.svg" width="48" height="48" alt="CMake" />
+      </a>
+      <br>CMake
+    </td>
   </tr>
 </table>
 
