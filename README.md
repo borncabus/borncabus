@@ -7,8 +7,11 @@
 #### Web-Scrapping
 - Experiência no DataCamp
 - Matéria "Python para Análise de Dados na UFPR"
+- Scrappy
 #### Análise de Dados
 #### Visualização de Dados
+- matplotlib (Python)
+- ggplot2 (R)
 #### Otimização
 #### Computação Científica
 #### Banco de Dados
