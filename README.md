@@ -38,22 +38,23 @@ Sou estudante de Estatística na Universidade Federal do Paraná com interesse e
 
 ## 📈 Projetos
 
-Aqui estão alguns dos meus projetos mais notáveis:
+Aqui estão alguns dos meus projetos:
 
-- **[Projeto de Ciência de Dados](link_do_projeto):** Análise de dados sobre [tema do projeto]
-- **[Aplicativo Web](link_do_projeto):** Um site desenvolvido para [finalidade do site]
-- **[Projeto de Eletrônica](link_do_projeto):** Um projeto envolvendo [descrição do projeto]
-- **[Portfolio Fotográfico](link_do_projeto):** Uma coleção das minhas melhores fotografias
-- **[Produção Musical](link_do_projeto):** Minhas músicas e projetos de produção
+- **[Projeto de Ciência de Dados](link_do_projeto):** Análises descritivas sobre assuntos aleatórios
+- **[Aplicativo Web](https://www.estatisticaufpr.online/):** Site desenvolvido para os alunos do curso de Estatística da UFPR
+- **[Projeto de Eletrônica](link_do_projeto):** Um projeto envolvendo o grupo de Robótica Yapira de um robô de combate
+- **[Portfolio Fotográfico](link_do_projeto):** Uma coleção de fotografias, logotipos e vetoriais já realizados
+- **[Produção Musical](https://www.youtube.com/watch?v=0j6uRo_f9D4&list=OLAK5uy_nGCiCJjJI8KDQJ17KI5BhJMOedhM4KjJw&index=1&pp=8AUB):** Música - A Memória Mais Bonita
 
 ## 📫 Como me Encontrar
 
-- **Email:** [Seu Email](mailto:seu-email@example.com)
-- **Instagram:** [Seu Twitter](https://twitter.com/seu-perfil)
-- **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- **Email:** [cabus@ufpr.br](cabus@ufpr.br)
+- **Instagram:** [@borncabus](https://www.instagram.com/borncabus/)
 
 ---
 
 Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e entrar em contato caso queira colaborar em algum projeto.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=borncabus&show_icons=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=borncabus&show_icons=true" alt="GitHub Stats">
+</div>
