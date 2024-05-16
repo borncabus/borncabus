@@ -1,81 +1,59 @@
-### Hi there 👋
+# Olá, eu sou [Matheus Born Cabús] 👋
 
-### Minhas Experiências:
-#### Inteligência Artificial
-- Fiz a Matéria de Inteligência Artificial na UFPR
-- Fiz a Matéria de Aprendizado de Máquina na UFPR
-#### Web-Scrapping
-- Experiência no DataCamp
-- Matéria "Python para Análise de Dados na UFPR"
-- Scrappy
-#### Análise de Dados
-#### Visualização de Dados
-- matplotlib (Python)
-- ggplot2 (R)
-#### Otimização
-#### Computação Científica
-#### Banco de Dados
-#### Programação em C
-- Matérias "Programação I" e "Programação II"
-#### Algoritmos e Estruturas de Dados
-- Vetores
-- Listas Ligadas
-- Árvores Binárias e Heaps
-- Algoritmos Básicos de Busca e Ordenação
+Sou estudante de Estatística na Universidade Federal do Paraná com interesse em diversas áreas do conhecimento. Aqui, você encontrará alguns dos meus projetos e contribuições nesses campos.
 
-### Trocar Imagens (Toolbox)
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://commons.wikimedia.org/w/index.php?curid=29423032">
-        <img src="https://github.com/borncabus/borncabus/blob/main/media/c_logo.svg" width="48" height="48" alt="C" />
-      </a>
-      <br>C
-    </td>
-    <td align="center" width="96">
-      <a href="https://en.wikipedia.org/wiki/C%2B%2B">
-        <img src="https://github.com/borncabus/borncabus/blob/main/media/cpp_logo.svg" width="48" height="48" alt="C++"/>
-      </a>
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.python.org">
-        <img src="https://github.com/borncabus/borncabus/blob/main/media/python_logo.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.r-project.org">
-        <img src="https://github.com/borncabus/borncabus/blob/main/media/r_logo.svg" width="48" height="48" alt="R" />
-      </a>
-      <br>R
-    </td>
-    <td align="center" width="96">
-      <a href="https://code.visualstudio.com" >
-        <img src="https://github.com/borncabus/borncabus/blob/main/media/vscode_logo.svg" width="48" height="48" alt="Visual Studio Code" />
-      </a>
-      <br>VS Code
-    </td>
-    <td align="center" width="96">
-      <a href="https://en.m.wikipedia.org/wiki/CMake" >
-        <img src="https://github.com/borncabus/borncabus/blob/main/media/cmake_logo.svg" width="48" height="48" alt="CMake" />
-      </a>
-      <br>CMake
-    </td>
-  </tr>
-</table>
+## Sobre Mim
 
-<!--
-**borncabus/borncabus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 **Formação:** Estatística na UFPR
+- 🔢 **Áreas de Interesse:** Matemática, Estatística, Ciência de Dados, Ciências da Computação, Eletrônica Básica
+- 🎨 **Produção de Conteúdo:** Fotografia, Edição de Imagem, Edição Vetorial, Edição de Vídeo, Criação de Sites, Produção Musical
 
-Here are some ideas to get you started:
+## 🚀 Minhas Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Ciência de Dados e Estatística
+- Análise de Dados
+- Modelagem Estatística
+- Machine Learning
+- Visualização de Dados
+- Ferramentas: R, Python, SQL
+
+### 💻 Ciências da Computação
+- Programação: Python, C/C++
+- Estruturas de Dados e Algoritmos
+- Fundamentos de Inteligência Artificial
+- Desenvolvimento Web: HTML, CSS, JavaScript
+- Banco de Dados: MySQL, PostgreSQL
+
+### 🔧 Eletrônica Básica
+- Circuitos Elétricos
+- Projetos em Arduino
+
+### 🎨 Produção de Conteúdo
+- **Fotografia:** Técnicas de captura e edição
+- **Edição de Imagem:** Adobe Photoshop, GIMP
+- **Edição Vetorial:** Adobe Illustrator, Inkscape
+- **Edição de Vídeo:** Adobe Premiere, Canva
+- **Criação de Sites:** Estáticos com Github Pages
+- **Produção Musical:** Studio One 6
+
+## 📈 Projetos
+
+Aqui estão alguns dos meus projetos mais notáveis:
+
+- **[Projeto de Ciência de Dados](link_do_projeto):** Análise de dados sobre [tema do projeto]
+- **[Aplicativo Web](link_do_projeto):** Um site desenvolvido para [finalidade do site]
+- **[Projeto de Eletrônica](link_do_projeto):** Um projeto envolvendo [descrição do projeto]
+- **[Portfolio Fotográfico](link_do_projeto):** Uma coleção das minhas melhores fotografias
+- **[Produção Musical](link_do_projeto):** Minhas músicas e projetos de produção
+
+## 📫 Como me Encontrar
+
+- **Email:** [Seu Email](mailto:seu-email@example.com)
+- **Instagram:** [Seu Twitter](https://twitter.com/seu-perfil)
+- **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/in/seu-perfil)
+
+---
+
+Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e entrar em contato caso queira colaborar em algum projeto.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true)
