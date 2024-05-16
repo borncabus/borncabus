@@ -1,4 +1,4 @@
-# Olá, eu sou [Matheus Born Cabús] 👋
+# Olá, sou Matheus 👋
 
 Sou estudante de Estatística na Universidade Federal do Paraná com interesse em diversas áreas do conhecimento. Aqui, você encontrará alguns dos meus projetos e contribuições nesses campos.
 
