@@ -38,7 +38,7 @@ Sou estudante de Estatística na Universidade Federal do Paraná com interesse e
 
 ## 📈 Projetos
 
-Aqui estão alguns dos meus projetos:
+Aqui estão alguns dos meus projetos (Em Construção):
 
 - **[Projeto de Ciência de Dados](link_do_projeto):** Análises descritivas sobre assuntos aleatórios
 - **[Aplicativo Web](https://www.estatisticaufpr.online/):** Site desenvolvido para os alunos do curso de Estatística da UFPR
