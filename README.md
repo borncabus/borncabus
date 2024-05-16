@@ -56,4 +56,4 @@ Aqui estão alguns dos meus projetos mais notáveis:
 
 Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e entrar em contato caso queira colaborar em algum projeto.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=borncabus&show_icons=true)
