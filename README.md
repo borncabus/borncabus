@@ -1,10 +1,10 @@
 # Olá, sou Matheus 👋
 
-Sou estudante de Estatística na Universidade Federal do Paraná com interesse em diversas áreas do conhecimento. Aqui, você encontrará alguns dos meus projetos e contribuições nesses campos.
+Sou estudante de Estatística na Universidade Federal do Paraná com interesse em diversas áreas do conhecimento. Aqui, você encontrará informações sobre mim, alguns dos meus projetos e contribuições nesses campos.
 
 ## Sobre Mim
 
-- 🎓 **Formação:** Estatística na UFPR
+- 🎓 **Formação:** Cursando Estatística e Ciência de Dados na UFPR
 - 🔢 **Áreas de Interesse:** Matemática, Estatística, Ciência de Dados, Ciências da Computação, Eletrônica Básica
 - 🎨 **Produção de Conteúdo:** Fotografia, Edição de Imagem, Edição Vetorial, Edição de Vídeo, Criação de Sites, Produção Musical
 
@@ -13,7 +13,7 @@ Sou estudante de Estatística na Universidade Federal do Paraná com interesse e
 ### 📊 Ciência de Dados e Estatística
 - Análise de Dados
 - Modelagem Estatística
-- Machine Learning
+- Aprendizado de Máquina
 - Visualização de Dados
 - Ferramentas: R, Python, SQL
 
@@ -27,6 +27,7 @@ Sou estudante de Estatística na Universidade Federal do Paraná com interesse e
 ### 🔧 Eletrônica Básica
 - Circuitos Elétricos
 - Projetos em Arduino
+- Desenvolvimento de PCBs
 
 ### 🎨 Produção de Conteúdo
 - **Fotografia:** Técnicas de captura e edição
@@ -34,7 +35,7 @@ Sou estudante de Estatística na Universidade Federal do Paraná com interesse e
 - **Edição Vetorial:** Adobe Illustrator, Inkscape
 - **Edição de Vídeo:** Adobe Premiere, Canva
 - **Criação de Sites:** Estáticos com Github Pages
-- **Produção Musical:** Studio One 6
+- **Produção Musical:** Studio One 7
 
 ## 📈 Projetos
 
